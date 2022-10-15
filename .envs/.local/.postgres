@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=attendance
+POSTGRES_USER=bonYeEtzoNVRuHZqqsqxtSwiuSMvFYIr
+POSTGRES_PASSWORD=G7dNdIQ5PQE3s1kxYskkfzSBQtYWwFyaC2DJQe5jX71LfoxTlRCq8b2Ccce6jZF3
